@@ -1,0 +1,105 @@
+﻿STRING 1
+{
+Игрок 1
+}
+
+STRING 2
+{
+Клан 1
+}
+
+STRING 3
+{
+Вихрь Иллюзий
+}
+
+STRING 4
+{
+xgm.guru/user/nazarpunk
+}
+
+STRING 5
+{
+Заклинание
+}
+
+STRING 6
+{
+Вихрь Иллюзий
+}
+
+STRING 11
+{
+Версия Warcraft:|cff1BE5B8 Reforged|r
+MUI: |cff00ffffда|r
+Импорт: |cff00ffffнет|r
+Утечки: |cff00ffffнет|r
+Исполнение: |cff00fffflua|r
+Требования: |cff00ffffнет|r
+
+
+Автор: |cff808080xgm.guru/user/|cff00ffffnazarpunk
+}
+
+STRING 62
+// Abilities: SIWh (Вихрь Иллюзий), Ubertip (Tooltip - Normal - Extended)
+{
+Герой указывает способность на себя или любую другую союзную единицу и восстанавливает ей здоровье в размере: Интеллект * уровень способности.
+Длительность: 10/15/20
+}
+
+STRING 63
+// Abilities: SIWh (Вихрь Иллюзий), Ubertip (Tooltip - Normal - Extended)
+{
+Герой указывает способность на себя или любую другую союзную единицу и восстанавливает ей здоровье в размере: Интеллект * уровень способности.
+Длительность: 10/15/20
+}
+
+STRING 66
+// Abilities: SIWh (Вихрь Иллюзий), Tip (Tooltip - Normal)
+{
+Иллюзорный Удар, [|cffffcc00Уровень 2|r] (|cffffcc00Q|r)
+}
+
+STRING 67
+// Abilities: SIWh (Вихрь Иллюзий), Tip (Tooltip - Normal)
+{
+Иллюзорный Удар, [|cffffcc00Уровень 3|r] (|cffffcc00Q|r)
+}
+
+STRING 71
+// Abilities: SIWh (Вихрь Иллюзий), Researchtip (Tooltip - Learn)
+{
+Вихрь Иллюзий (|cffffcc00R|r)
+}
+
+STRING 72
+// Abilities: SIWh (Вихрь Иллюзий), Name (Name)
+{
+Вихрь Иллюзий
+}
+
+STRING 73
+// Abilities: SIWh (Вихрь Иллюзий), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 74
+// Abilities: SIWh (Вихрь Иллюзий), Tip (Tooltip - Normal)
+{
+Вихрь Иллюзий (|cffffcc00R|r)
+}
+
+STRING 75
+// Abilities: SIWh (Вихрь Иллюзий), Researchubertip (Tooltip - Learn - Extended)
+{
+Герой кружится в вихре разбрасывая иллюзии.
+}
+
+STRING 76
+// Abilities: SIWh (Вихрь Иллюзий), Ubertip (Tooltip - Normal - Extended)
+{
+Герой кружится в вихре разбрасывая иллюзии.
+}
+
